@@ -11,3 +11,126 @@ BIENVENIDOS A MI PRIMERA PAGINA WEB DE KRISTA ASTURIAS
 </h1>
 </body>
 </html
+
+Encabezado
+<html>
+<head>
+<title>Krista Melissa Asturias Monroy</title>
+</head>
+<body><body bgcolor="#EF1539">
+<h1>
+<br><font size="Arial" font color="#AEE7E7">
+<marquee>
+<h1> Mi Pagina web Krista Melissa Asturias Monroy</h1>
+</marquee>
+</font>
+</br>
+</h1>
+</body>
+</html>
+
+Index
+<html>
+<head>
+<title> Mi pagina web</title>
+</head>
+ <frameset rows="100,*">
+         <frame id="frmSuperior" name="frmSuperior" src="encabezado.html" />
+         <frameset cols="150,*">
+             <frame id="frmIzquierda" name="frmIzquierda" src="izquierda.html" />
+             <frame id="frmCuerpo"    name="frmCuerpo"    src="cuerpo.html" />
+         </frameset>
+        <noframes>
+            <body>Su navegador no soporta frames</body>
+        </noframes>
+    </frameset>
+</html>
+
+Izquierda
+<html>
+<head>
+<title> Inicion</title>
+</head>
+<body><body bgcolor="#9B84D8">
+<h1>
+<br>
+<a href="https://kristaasturias/4dkris/cuerpo.html target=frmcuerpo>Inicio</a>
+</br>
+<br>
+<a href="https://kristaasturias/4dkris/cuerpo.html" target=frmcuerpo>Libros</a>
+</br>
+<br>
+<a href="https://kristaasturias/4dkris/Musica.html" target=frmcuerpo>Musica</a>
+</br>
+<br>
+<a href="https://kristaasturias/4dkris/Series.html" target=frmcuerpo>Series</a>
+</br>
+</h1>
+</body>
+</html>
+
+libros
+<html>
+<head>
+<title> Libros</title>
+</head>
+<body bgcolor="#9B84D8" text=white>
+<center>
+
+<h2> Saga Trono de cristal</h2>
+<td><img src="https://infoliteraria.com/wp-content/uploads/2020/10/trono-de-cristal-1024x768.jpg.webp" width="350" heigth="250"></td>
+
+<h2>Trilogía El beso del infierno</h2>
+<td><img src="https://infoliteraria.com/wp-content/uploads/2018/11/el-beso-del-infierno-1280x720.jpg" width="350" heigth="250"></td>
+
+<h2> EL jardin de las mariposas </h2>
+<td><img src="https://1.bp.blogspot.com/-AE0tRhBJZTg/XXLsRjVXKtI/AAAAAAAAEP8/jTEEtVYygdMBb0u_vrLGmNE79o61ey3ngCLcBGAs/s640/Captura%2Bde%2Bpantalla%2B2018-03-20%2Ba%2Bla%2528s%2529%2B11.26.38.png" width="350" heigth="250"></td>
+
+</center>
+
+</body>
+</hrml>
+
+muisica
+<html>
+<head>
+<title> Musica </title>
+</head>
+<body bgcolor="#DF7171" text=white>
+<center>
+
+<h2> Taste de Stray Kids </h2>
+<td><img src="https://images.genius.com/3b0f4b3c74c5807bd7e8984fee16ea80.1000x1000x1.jpg" width="250"
+heigth="200"></td>
+
+<h2> Tomboy Destiny Rogers</h2>
+<td><img src="https://i.scdn.co/image/ab67616d0000b2735686b5e8400a966fa94f15fb" width="200"  heigth="200"></td>
+
+<h2> Love of mine 5SOS</h2>
+<td><img src="https://i.pinimg.com/originals/9c/cd/0c/9ccd0c68f8a42b1fc152c20303b9685c.png" width="200"  heigth="200"></td>
+
+</center>
+</body>
+<html>
+
+series
+<html>
+<head>
+<title> Series </title>
+</head>
+<body bgcolor="#E3E173" text=white>
+<center>
+
+<h2> Mr.Queen</h2>
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e7/Mr._Queen_poster.jpg/250px-Mr._Queen_poster.jpg" width="300" heigth="250"></td>
+
+<h2>Game of Thrones</h2>
+<td><img src="https://sm.ign.com/ign_es/tv/j/juego-de-t/juego-de-tronos_d4p4.png" width="300" heigth="250"></td>
+
+<h2>Las Escalofriantes Venrturas de Sabrina </h2>
+<td><img src="https://es.web.img3.acsta.net/pictures/18/09/14/09/07/3140930.jpg" width="350" heigth="250"></td>
+
+</center>
+
+</body>
+</html>
